@@ -1,3 +1,21 @@
+# VS Code project file
+.vscode/
+
+# Misc test, temp, and housekeeping files
+sandbox.py
+TODO.md
+temp/
+logs/
+
+# Ignore Mac DS_Store files
+.DS_Store
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jekyll
 _site/
 .sass-cache/
 .jekyll-cache/
