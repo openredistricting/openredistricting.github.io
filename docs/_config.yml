@@ -10,7 +10,7 @@ highlighter: rouge
 remote_theme: hyde
 
 # Hyde theme settings
-sidebar-about-description: "A brief description about yourself or your site"
+sidebar-about-description: "Open Redistricting"
 sidebar-nav-links:
   Home: "/"
   About: "/about/"
