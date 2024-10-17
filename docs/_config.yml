@@ -2,6 +2,9 @@ title: Open Redistricting
 description: All about open redistricting
 url: https://alecramsay.github.io
 baseurl: ''
+author:
+  name: Alec Ramsay
+  email: alec@openredistricting.net
 
 # Build settings
 markdown: kramdown

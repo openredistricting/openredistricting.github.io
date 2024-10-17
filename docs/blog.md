@@ -9,4 +9,4 @@ Posts:
 * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
 {% endfor %}
 
-<p>Subscribe <a href="{{ '/atom.xml' | relative_url }}" class="rss-subscribe">via RSS</a>.</p>
+<p>Subscribe via <a href="{{ '/atom.xml' | relative_url }}" class="rss-subscribe">RSS</a>.</p>
