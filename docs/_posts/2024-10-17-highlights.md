@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Highlights From the 2020 Cycle
+title: Highlights
 ---
+
+Over the 2020 cycle, the open redistricting community had a significant impact on the redistricting process.
+Highlights include:
 
 * **Michael McDonald’s [VEST](https://election.lab.ufl.edu/precinct-data/) team joined precinct boundaries with precinct-level election results** – Most states don’t do the work to collect and publish accurate precinct boundaries matched with precinct-level election results. That’s what VEST does. These up-to-date election results are the oxygen that sustains the rest of the ecosystem.  
 * [**Dave’s Redistricting (DRA)**](https://davesredistricting.org/) **delivered a free, easy-to-use tool for drawing, evaluating, & sharing redistricting plans** – At the peak of redistricting at the end of 2022, nearly 24K people created \~1.5M maps. Now two years on 15K people averaging \~2K unique visitors per day still use the site and have created \~660K maps. Since 2020, people have created almost 3.9 million maps–the largest public collection of redistricting maps ever assembled.  
