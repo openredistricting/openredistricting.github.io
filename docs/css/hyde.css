@@ -264,3 +264,21 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
     color: #8f5536;
 }
+
+/* Added by me */
+
+/* RSS */
+
+.rss-subscribe {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #f26522;
+    /* RSS orange color */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.rss-subscribe:hover {
+    background-color: #e54b00;
+}
