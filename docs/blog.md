@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
+title: Blog
 ---
 
-<h2>Blog</h2>
+Previous posts:
 
 {% for post in site.posts %}
 * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})

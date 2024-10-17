@@ -1,7 +1,7 @@
 title: Open Redistricting
 description: All about open redistricting
 url: https://alecramsay.github.io
-baseurl: '/'
+baseurl: ''
 
 # Build settings
 markdown: kramdown
