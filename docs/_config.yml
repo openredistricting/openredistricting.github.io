@@ -1,0 +1,15 @@
+title: My Hyde Site
+description: A beautiful two-column Jekyll theme
+url: https://yourusername.github.io
+baseurl: ''
+
+# Build settings
+markdown: kramdown
+theme: hyde
+
+# Hyde theme settings
+sidebar-about-description: "A brief description about yourself or your site"
+sidebar-nav-links:
+  Home: "/"
+  About: "/about/"
+  Archive: "/archive/"
