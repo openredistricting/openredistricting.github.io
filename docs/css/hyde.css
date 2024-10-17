@@ -282,3 +282,14 @@ a.sidebar-nav-item:focus {
 .rss-subscribe:hover {
     background-color: #e54b00;
 }
+
+.text-line {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.inline-image {
+    height: 1.5em;
+    width: auto;
+    vertical-align: middle;
+}
