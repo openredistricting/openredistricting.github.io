@@ -5,7 +5,8 @@ baseurl: ''
 
 # Build settings
 markdown: kramdown
-theme: hyde
+# theme: hyde
+remote_theme: hyde
 
 # Hyde theme settings
 sidebar-about-description: "A brief description about yourself or your site"
