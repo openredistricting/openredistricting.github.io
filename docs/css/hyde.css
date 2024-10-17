@@ -270,6 +270,8 @@ a.sidebar-nav-item:focus {
 /* RSS */
 
 .rss-subscribe {
+    height: 1.0em;
+    /* Added */
     display: inline-block;
     padding: 10px 15px;
     background-color: #f26522;
@@ -283,13 +285,13 @@ a.sidebar-nav-item:focus {
     background-color: #e54b00;
 }
 
-.text-line {
+/* .text-line {
     font-size: 16px;
     line-height: 1.5;
-}
+} */
 
 .inline-image {
-    height: 1.5em;
+    height: 1.0em;
     width: auto;
     vertical-align: middle;
 }
