@@ -270,30 +270,28 @@ a.sidebar-nav-item:focus {
 /* RSS */
 
 .rss-subscribe {
-    display: inline-flex;
-    align-items: center;
-    height: 1.5em;
-    padding: 0 0.5em;
+    height: 1.0em;
+    /* Added */
+    display: inline-block;
+    padding: 10px 15px;
     background-color: #f26522;
     /* RSS orange color */
     color: white;
     text-decoration: none;
-    border-radius: 3px;
-    font-size: 0.9em;
-    line-height: 1;
+    border-radius: 5px;
 }
 
 .rss-subscribe:hover {
     background-color: #e54b00;
 }
 
-.inline-svg {
-    height: 1em;
-    /* This will make the SVG roughly the same height as the text */
+/* .text-line {
+    font-size: 16px;
+    line-height: 1.5;
+} */
+
+.inline-image {
+    height: 1.0em;
     width: auto;
-    /* This maintains the aspect ratio */
     vertical-align: middle;
-    /* This aligns the SVG with the middle of the text */
-    margin-left: 0.2em;
-    /* This adds a small space between the text and the SVG */
 }
