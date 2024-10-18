@@ -269,13 +269,35 @@ a.sidebar-nav-item:focus {
 
 /* RSS */
 
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
 .rss-subscribe {
+    display: inline-flex;
+    align-items: center;
+    height: 1.5em;
+    padding: 0 0.5em;
+    background-color: #f26522;
+    /* RSS orange color */
+    color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    font-size: 0.9em;
+    line-height: 1;
+    vertical-align: middle;
+}
+
+.rss-subscribe:hover {
+    background-color: #e54b00;
+}
+
+/* .rss-subscribe {
     height: 1.0em;
-    /* Added */
     display: inline-block;
     padding: 10px 15px;
     background-color: #f26522;
-    /* RSS orange color */
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -283,15 +305,23 @@ a.sidebar-nav-item:focus {
 
 .rss-subscribe:hover {
     background-color: #e54b00;
-}
+} */
 
+*/
 /* .text-line {
     font-size: 16px;
     line-height: 1.5;
 } */
 
-.inline-image {
+/* .inline-image {
     height: 1.0em;
     width: auto;
     vertical-align: middle;
+} */
+
+.inline-image {
+    height: 1em;
+    width: auto;
+    vertical-align: text-bottom;
+    margin-left: 0.2em;
 }
