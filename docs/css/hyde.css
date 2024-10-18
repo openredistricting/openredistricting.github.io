@@ -269,10 +269,10 @@ a.sidebar-nav-item:focus {
 
 /* RSS */
 
-p {
+/* p {
     font-size: 16px;
     line-height: 1.5;
-}
+} */
 
 .rss-subscribe {
     display: inline-flex;
@@ -292,32 +292,6 @@ p {
 .rss-subscribe:hover {
     background-color: #e54b00;
 }
-
-/* .rss-subscribe {
-    height: 1.0em;
-    display: inline-block;
-    padding: 10px 15px;
-    background-color: #f26522;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-.rss-subscribe:hover {
-    background-color: #e54b00;
-} */
-
-*/
-/* .text-line {
-    font-size: 16px;
-    line-height: 1.5;
-} */
-
-/* .inline-image {
-    height: 1.0em;
-    width: auto;
-    vertical-align: middle;
-} */
 
 .inline-image {
     height: 1em;
