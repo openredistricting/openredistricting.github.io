@@ -12,5 +12,5 @@ But over the ensuing decade, the emergence of "open redistricting" marked a turn
 Our movement is not about advancing any particular political agenda, but rather about ensuring that citizens’ voices are heard and they are fairly represented. We are dedicated to keeping the redistricting process out of backrooms and out in the open for all to see.
 
 <p>For more information, you can <a href="mailto:&#105;&#110;&#102;&#111;&#64;&#111;&#112;&#101;&#110;&#114;&#101;&#100;&#105;&#115;&#114;&#105;&#99;&#116;&#105;&#110;&#103;&#46;&#110;&#101;&#116;">email us</a>. 
-Or follow us on <a href="https://x.com/OpenRedistrict"><img src="/assets/images/x.svg" alt="Twitter/X Profile"></a>
+Or follow us on <a href="https://x.com/OpenRedistrict"><img class="inline-svg" src="/assets/images/x.svg" alt="Twitter/X Profile"></a>
 </p>
