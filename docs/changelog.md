@@ -3,4 +3,4 @@ layout: default
 title: Change Log
 ---
 
-* Mucking with the Twitter/X icon ... ...
+* Mucking with the Twitter/X icon 
