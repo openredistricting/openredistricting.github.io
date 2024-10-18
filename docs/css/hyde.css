@@ -292,6 +292,7 @@ a.sidebar-nav-item:focus {
     height: 1em;
     width: 1em;
     /* Set a specific width */
-    vertical-align: text-bottom;
+    vertical-align: middle;
+    /* vertical-align: text-bottom; */
     margin-left: 0.2em;
 }
