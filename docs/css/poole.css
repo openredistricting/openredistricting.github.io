@@ -138,6 +138,13 @@ dl {
     margin-bottom: 1rem;
 }
 
+li {
+    font-size: 1em;
+    margin-bottom: 0.5rem;
+}
+
+/* Reset for lists */
+
 dt {
     font-weight: bold;
 }
