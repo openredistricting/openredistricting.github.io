@@ -132,6 +132,8 @@ strong {
 ul,
 ol,
 dl {
+    font-size: 1em;
+    /* Reset for lists */
     margin-top: 0;
     margin-bottom: 1rem;
 }
