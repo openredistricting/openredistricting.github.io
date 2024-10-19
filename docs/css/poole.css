@@ -218,3 +218,10 @@ pre code {
 .highlight pre {
     margin-bottom: 0;
 }
+
+/* Added by me */
+
+.tagline {
+    margin-top: 0;
+    margin-bottom: 0;
+}
